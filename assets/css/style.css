@@ -1,0 +1,17 @@
+.header{
+    background-color: #28a745;
+    height: 75px;
+
+}
+
+
+header img {
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+   
+    
+}
+
+.navbar-nav .nav-link {
+    color: white;}
